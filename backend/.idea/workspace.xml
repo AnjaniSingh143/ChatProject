@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6368d1f-ce21-43ab-9328-b2f2eb550baa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DSA/.idea/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/Selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA/out/production/DSA/.idea/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project1/.idea/Project1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/chat_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chatapp/ChatAppApplicaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chatapp/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ATM_Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/AbstractionPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/AbstractionPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ArrayQuestion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Collections1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Collections2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Collections3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Collections4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Collections5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/EncapsulationPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ExceptionHandling1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ExceptionHandling2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ExceptionHandling3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ExceptionHandling4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ExceptionHandling5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ExceptionHandling6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/GFG_String4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/HAS_A_relation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/HAS_A_relation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/HAS_A_relation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/ImportStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/InheritanceParactice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/InheritancePractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/InheritancePractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Innerclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Innerclass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Interfaces3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/LambdaInterfaces1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/LambdaInterfaces2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/LoanProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Map1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Map2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Methodhiding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Multithreading9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Newkeyword1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/OverridenPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/PolymorphismPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/PolymorphismPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/StaticPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/StaticPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/StringQuestion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Thoughtworks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Varargs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/Widening1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/WrapperClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/WrapperClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/javaprogram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/out/production/javaprogram/javaprogram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaprogram/sample.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="30kCxuAHTcaqli6Xvi8kHf2IQwO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/OneDrive/Desktop/chat_app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6368d1f-ce21-43ab-9328-b2f2eb550baa" name="Changes" comment="" />
+      <created>1754162433372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754162433372</updated>
+    </task>
+    <servers />
+  </component>
+</project>
